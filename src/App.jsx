@@ -28,11 +28,11 @@ const siteProps = {
   title: "Web Designer & Content Creator",
   email: "alex@example.com",
   gitHub: "microsoft",
-  instagram: "microsoft",
+  instagram: "cristiano",
   linkedIn: "satyanadella",
   medium: "",
   twitter: "microsoft",
-  youTube: "Code",
+  youTube: "",
 };
 
 const primaryColor = "#4E567E";
