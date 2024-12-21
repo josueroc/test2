@@ -24,19 +24,20 @@ const imageAltText = "black lace background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "I'm Lana Del Rey. A dreamer, a lover of nostalgia, melancholy, and the sublime. My music feels like a movie from the '60s, where dreams blend with reality, and love, sadness, and beauty intertwine in every note. I live somewhere between glamour and vulnerability, crafting soundscapes that invite you to get lost in them.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Web design",
-  "User experience",
-  "Inclusive design",
-  "Focus group testing",
-  "Mobile user interfaces",
-  "Graphic design",
+  "Songwriting",
+  "Singing",
+  "Pepsi embassador",
+  "Poetry",
+  "Cultural questioning",
+  "Visual arts",
+  "Alligators",
 ];
 
 /**
@@ -45,7 +46,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+  "Live fast. Die young. Be wild. Have fun.";
 
 const About = () => {
   return (

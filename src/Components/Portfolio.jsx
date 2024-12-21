@@ -31,28 +31,24 @@ const imageAltText = "Lana del Rey looking at camara casual";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
-    description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+    title: "Born to Die (Album)",
+    description: "Lana's breakout album, blending orchestral pop, hip-hop influences, and cinematic storytelling.",
+    url: "https://www.youtube.com/watch?v=Bag1gUxuU0g",
   },
   {
-    title: "Web Development for Beginners",
-    description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+    title: "Norman Fucking Rockwell! (Album)",
+    description: "A critically acclaimed album that explores themes of love, fame, and disillusionment in modern America.",
+    url: "https://www.youtube.com/watch?v=5p6h4lqD83g",
   },
   {
-    title: "My Resume Site",
-    description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+    title: "Lust for Life (Album)",
+    description: "An album featuring collaborations with artists like The Weeknd and Stevie Nicks, blending pop and indie rock influences.",
+    url: "https://www.youtube.com/watch?v=8uH9ymvPFGs",
   },
   {
-    title: "GitHub Codespaces and github.dev",
-    description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+    title: "West Coast (Music Video)",
+    description: "A standout music video that captures the essence of Lana’s cinematic aesthetic, mixing vintage visuals with modern sound.",
+    url: "https://www.youtube.com/watch?v=YpI1pr1h_3M",
   },
 ];
 
